@@ -20,12 +20,12 @@
       <![CDATA[Hello java]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-11T22:06:10 CLST" name="Suite" finished-at="2022-12-11T22:06:10 CLST" duration-ms="104">
+  <suite started-at="2022-12-11T22:43:51 CLST" name="Suite" finished-at="2022-12-11T22:43:51 CLST" duration-ms="108">
     <groups>
     </groups>
-    <test started-at="2022-12-11T22:06:10 CLST" name="Test" finished-at="2022-12-11T22:06:10 CLST" duration-ms="104">
+    <test started-at="2022-12-11T22:43:51 CLST" name="Test" finished-at="2022-12-11T22:43:51 CLST" duration-ms="108">
       <class name="Scripts.Test1">
-        <test-method signature="tc1()[pri:0, instance:Scripts.Test1@662b4c69]" started-at="2022-12-11T22:06:10 CLST" name="tc1" finished-at="2022-12-11T22:06:10 CLST" duration-ms="1" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:Scripts.Test1@4d0f2471]" started-at="2022-12-11T22:43:51 CLST" name="tc1" finished-at="2022-12-11T22:43:51 CLST" duration-ms="3" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello java]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- tc1 -->
       </class> <!-- Scripts.Test1 -->
       <class name="Scripts.Test2">
-        <test-method signature="tc1()[pri:0, instance:Scripts.Test2@67c33749]" started-at="2022-12-11T22:06:10 CLST" name="tc1" finished-at="2022-12-11T22:06:10 CLST" duration-ms="3" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:Scripts.Test2@5562c41e]" started-at="2022-12-11T22:43:51 CLST" name="tc1" finished-at="2022-12-11T22:43:51 CLST" duration-ms="5" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello Selenium]]>
@@ -43,7 +43,7 @@
         </test-method> <!-- tc1 -->
       </class> <!-- Scripts.Test2 -->
       <class name="Scripts.Test3">
-        <test-method signature="tc1()[pri:0, instance:Scripts.Test3@fba92d3]" started-at="2022-12-11T22:06:10 CLST" name="tc1" finished-at="2022-12-11T22:06:10 CLST" duration-ms="2" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:Scripts.Test3@32ee6fee]" started-at="2022-12-11T22:43:51 CLST" name="tc1" finished-at="2022-12-11T22:43:51 CLST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello phython]]>
@@ -52,7 +52,7 @@
         </test-method> <!-- tc1 -->
       </class> <!-- Scripts.Test3 -->
       <class name="Scripts.Test4">
-        <test-method signature="tc1()[pri:0, instance:Scripts.Test4@76c3e77a]" started-at="2022-12-11T22:06:10 CLST" name="tc1" finished-at="2022-12-11T22:06:10 CLST" duration-ms="2" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:Scripts.Test4@4d465b11]" started-at="2022-12-11T22:43:51 CLST" name="tc1" finished-at="2022-12-11T22:43:51 CLST" duration-ms="3" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello phython selenium]]>
@@ -61,7 +61,7 @@
         </test-method> <!-- tc1 -->
       </class> <!-- Scripts.Test4 -->
       <class name="Scripts.Test5">
-        <test-method signature="tc1()[pri:0, instance:Scripts.Test5@78123e82]" started-at="2022-12-11T22:06:10 CLST" name="tc1" finished-at="2022-12-11T22:06:10 CLST" duration-ms="1" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:Scripts.Test5@53fdffa1]" started-at="2022-12-11T22:43:51 CLST" name="tc1" finished-at="2022-12-11T22:43:51 CLST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello API]]>
@@ -70,7 +70,7 @@
         </test-method> <!-- tc1 -->
       </class> <!-- Scripts.Test5 -->
       <class name="Scripts.Test6">
-        <test-method signature="tc1()[pri:0, instance:Scripts.Test6@101952da]" started-at="2022-12-11T22:06:10 CLST" name="tc1" finished-at="2022-12-11T22:06:10 CLST" duration-ms="13" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:Scripts.Test6@3d5c822d]" started-at="2022-12-11T22:43:51 CLST" name="tc1" finished-at="2022-12-11T22:43:51 CLST" duration-ms="13" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello postman]]>
