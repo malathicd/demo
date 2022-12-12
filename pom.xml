@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>Wipro</groupId>
-  <artifactId>FireLawn</artifactId>
+  <artifactId>demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
@@ -28,6 +28,9 @@
     <artifactId>poi</artifactId>
     <version>5.2.2</version>
 </dependency>
+
+
+
 
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
 <dependency>
@@ -65,6 +68,14 @@
     <artifactId>extentreports</artifactId>
     <version>3.0.6</version>
 </dependency>
+
+
+<dependency>    
+ <groupId>com.apple</groupId>     
+ <artifactId>AppleJavaExtensions</artifactId>     
+ <version>1.4</version> 
+ </dependency>
+
 
   
   
